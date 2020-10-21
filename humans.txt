@@ -5,7 +5,7 @@
 
     <name><twitter>
 #this is the customized line
-I am a developer
+This is the common line
 # THANKS
 
     <name>
