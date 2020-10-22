@@ -7,3 +7,4 @@
 
 
 #Git and Github Training
+adding git rebase lectures
